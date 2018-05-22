@@ -1,6 +1,10 @@
 
-#include "cs136.h"
-#include "checkmate.h"
+
+#include <assert.h>
+#include <limits.h>
+#include <stdbool.h>
+#include <stdio.h>
+#include <stdlib.h>
 //* = 42
 //K = 75 
 //Q = 81 
